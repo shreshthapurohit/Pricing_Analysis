@@ -35,7 +35,7 @@ pricing-analysis/
 ### 1. Clone or download the project
 
 ```bash
-git clone https://github.com/your-username/pricing-analysis.git
+git clone https://github.com/shreshthapurohit/pricing-analysis.git
 cd pricing-analysis
 ```
 
